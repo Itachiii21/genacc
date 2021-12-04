@@ -6,7 +6,7 @@ from threading import Thread
 import json
 from os import path
 import os
-os.system("pip install amino_new.py==4.2.2")
+os.system("pip install amino_new.py==4.7")
 try:
 	import colorama
 except ModuleNotFoundError:
